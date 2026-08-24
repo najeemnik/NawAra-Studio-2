@@ -1,0 +1,6 @@
+{
+  "name": "NawAra Studio | نو آرا استدیو",
+  "description": "وبسایت رسمی شرکت ساختمانی و مهندسی نوآرا با پرتال پروژه‌ها، نمایش سه‌بعدی و سیستم مدیریت NawAra CPM",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
